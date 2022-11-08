@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotlin, Flows
 - 💞️ I’m looking to collaborate on Android Development Plans
-- 📫 How to reach me sonitshrma07@gmial.com
+- 📫 How to reach me sonitsharma07@gmail.com
 
 <!---
 sonitsharma/sonitsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
